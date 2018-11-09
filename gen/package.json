@@ -1,0 +1,11 @@
+{
+  "name": "mermaid.rest",
+  "version": "0.1.0",
+  "description": "REST generator for Mermaid",
+  "license": "MIT",
+  "repository": "git@github.com:mermaidjs/mermaid.cli.git",
+  "author": "Ovan Crone <ovan@psibr.net>",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
+}
