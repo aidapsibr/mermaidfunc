@@ -1,5 +1,5 @@
 # Mermaid Azure Function (docker)
-This is a port of the Mermaid CLI tool into an Azure Functions v2 (from here on out v2 is assumed) as a docker image.
+This is a port of the [Mermaid CLI](https://github.com/mermaidjs/mermaid.cli) tool into an Azure Functions v2 (from here on out v2 is assumed) as a docker image.
 
 ## Why not use an app service plan or consumption model?
 Mermaid uses Puppeteer, a headless Chromium tool, to render diagrams and export them. 
