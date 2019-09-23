@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Mermaid diagram generator
+name: mermaidfunc
+version: v0.1.0
