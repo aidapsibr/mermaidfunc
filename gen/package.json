@@ -6,6 +6,6 @@
   "repository": "git@github.com:mermaidjs/mermaid.cli.git",
   "author": "Ovan Crone <ovan@psibr.net>",
   "dependencies": {
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^1.13.0"
   }
 }
